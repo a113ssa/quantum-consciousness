@@ -5,3 +5,4 @@
 #### [This Doctor Says He Knows How the Brain Creates Consciousness. New Evidence Suggests He’s On to Something. | Popular Mechanics](https://www.popularmechanics.com/science/a63186374/consciousness-microtubules/)
 #### [Your Consciousness Can Connect With the Whole Universe, Groundbreaking New Research Suggests | Popular Mechanics](https://www.popularmechanics.com/science/a62373322/quantum-theory-of-consciousness/)
 #### [Orchestrated objective reduction | Wikipedia](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction)
+#### [Quantum Models of Consciousness from a Quantum Information Science Perspective | arXiv](https://arxiv.org/abs/2501.03241)
